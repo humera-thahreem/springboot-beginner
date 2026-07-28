@@ -1,3 +1,23 @@
 h1{
     color:blue;
 }
+.navbar{
+    border-width: 2px;
+    border-color:gray;
+    border-style:solid;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+}
+.navbar a{
+    padding: 25px;
+    text-decoration: none;
+    color: gray;
+}
+.navbar a:hover{
+    color:black;
+}
+body{
+    margin:0px;
+    background-color: pink;
+}
